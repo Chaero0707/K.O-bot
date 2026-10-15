@@ -2,4 +2,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/models/*.pt
-data/combined/*.npz
+data/corrections/*.jsonl
+기보/selfplay/*.sgf
+*.npz
